@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cbullet",
+        "repositoryURL": "https://github.com/spencerkohan/Swift-Cbullet",
+        "state": {
+          "branch": "master",
+          "revision": "7f08110474f0c7e86da025493a4b64ce347d63af",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,4 @@
+module Ctarget {
+  umbrella "/Users/spencerkohan/Projects/Personal/SwiftModules/FrameworkLinkingTestCase/Sources/Ctarget/include"
+  export *
+}
